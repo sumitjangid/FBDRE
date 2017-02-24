@@ -1,0 +1,18 @@
+{
+	"description": "Facebook Image Redundancy Elimination",
+	"name": "FBIRE",
+	"author":"Sumit Jangid",
+	"type": "project",
+	"homepage": "https://localhost",
+	"license": "MIT",
+	"support": {
+		"forum": "http://localhost/",
+		"wiki": "https://localhost/wiki"
+	},
+	"require": {
+		"php": ">=5.2.4",
+		"facebook/php-sdk-v4" : "~5.0"
+	},
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
